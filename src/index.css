@@ -38,16 +38,3 @@ a:hover {
   opacity: 0.8;
 
 }
-
-a:visited {
- transition: opacity 0.3s;
-   font-family: 'Roboto';
-  text-decoration: none;
-  
-}
-
-a:active {
-   transition: opacity 0.3s;
-   font-family: 'Roboto';
-  text-decoration: none;
-}
