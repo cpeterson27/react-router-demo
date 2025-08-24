@@ -6,12 +6,12 @@
   "overrides": {
     "vite": {
       "esbuild": "^0.25.0",
-      "homepage": "https://github.com/cpeterson27/react-router-demo.git"
+      "homepage": "https://github.com/cpeterson27/react-router-demo"
     }
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite --open",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",

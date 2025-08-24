@@ -10,8 +10,8 @@ import AboutUs from "../AboutUs/AboutUs";
 import Contact from '../AboutMe/Contact';
 import Hobbies from '../AboutMe/Hobbies';
 import MyStory from '../AboutMe/MyStory';
-import SiteHistory from '../AboutUs/SiteMission';
-import SiteMission from '../AboutUs/SiteHistory';
+import SiteMission from '../AboutUs/SiteMission';
+import SiteHistory from '../AboutUs/SiteHistory';
 import PageNotFound from '../PageNotFound/PageNotFound';
 import "./App.css";
 
